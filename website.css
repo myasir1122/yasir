@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    border:border-box;
+
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    display: flex;
+    color: aliceblue;
+}
+.navlogo{
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+
+
+}
+.nav-adress{
+    border: 1px solid transparent;
+    
+
+}
+.nav-adress:hover{
+    border: 1px solid white;
+
+}
+.logo{
+    background-image: url(amazon.png);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
+
+.nav-adress{
+    font-size: 12px;
+    color: #CCCCCC;
+    margin: 5px;
+}
+.icon{
+    font-size: 14px;
+    margin-right: 10px;
+}
+#All{
+    margin-top: 7px;
+    height: 38.5px;
+    width: 45px;
+    background-color:#CCCCCC;
+    border-top-left-radius: 10%;
+    border-end-start-radius: 10%;
+    color: aliceblue;
+    margin-left: 30px;
+    
+}
+#All:hover{
+    color: black;
+
+}
+#search{
+    margin-top: 5px;
+    height: 35px;
+    width: 500px;
+    background-color:white;
+}
+#search-icon{
+    margin-top: 6px;
+    height: 42px;
+    width: 50px;
+    background-color:#F29F58;
+}
+#lang{
+    margin-top: 3px;
+    margin-left: 20px;
+    background-color: #0f1111;
+    color: white;
+    border: 2px solid #0f1111;
+    border-radius: 10%;
+    height: 50px;
+    width: 50px;
+
+}
+#lang:hover{
+    border: 1px solid white;
+}
+#cart{
+    margin-left: 10px;
+    margin: 20px;
+}
+
+#cart:hover{
+    border: 1px solid white;
+}
+#low{
+    background-color:#0E2148;
+    color: white;
+    height: 40px;
+    
+}
+#list{
+
+    display: inline-block;
+    text-align: center;
+    justify-content:center;
+   
+}
+#list:hover{
+     border: 1px solid white;
+     
+}
+#today{
+    margin: 12px;
+    display: inline-block;
+    color:white;
+}
+#today:hover{
+    border:1px solid white;
+}
+#registry{
+    margin: 12px;
+    display: inline-block;
+}
+#registry:hover{
+    border:1px solid white;
+}
+#prime{
+    margin: 12px;
+    display: inline-block;
+
+}
+#prime:hover{
+    border:1px solid white;
+
+}
+#gift{
+    margin: 12px;
+    display: inline-block;
+}
+#gift:hover{
+    border:1px solid white;
+}
+#cust{
+    margin: 12px;
+    display: inline-block;
+}
+#cust:hover{
+    border:1px solid white;
+}
+#cell{
+    display: inline-block;
+}
+#cell:hover{
+    border:1px solid white;
+}
+#img1{
+    height: 700px;
+    width: 1264.5px;
+}
+
+
+
